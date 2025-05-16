@@ -7,6 +7,6 @@
     <title>Livewire</title>
 </head>
 <body>
-    <livewire:our-component />
+    <livewire:first-component />
 </body>
 </html>
